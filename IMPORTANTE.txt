@@ -1,0 +1,3 @@
+PARA INICIAR SESION
+USUARIO: http://localhost/Tienda/panel.php
+ADMIN: http://localhost/Tienda/productos/panel/index.php

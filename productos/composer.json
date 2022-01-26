@@ -1,0 +1,14 @@
+{
+    "name": "tienda/tienda",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "tienda\\":"src/"
+        }
+    }
+}
